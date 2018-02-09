@@ -1,0 +1,9 @@
+/ipch
+/*.opensdf
+/*.sdf
+.vs/
+x64/
+*.VC.db
+*.opendb
+bison/
+bison-*.zip
